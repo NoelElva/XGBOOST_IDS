@@ -1,7 +1,3 @@
-Here's a well-structured `README.md` file for the provided script. It explains the purpose, dependencies, usage, and the overall data science pipeline being implemented.
-
----
-
 # XGBoost Classification on Network Intrusion Dataset
 
 This project implements a machine learning pipeline for multi-class classification using XGBoost on the **Friday-WorkingHours-Afternoon-DDos.pcap\_ISCX.csv** dataset from the CICIDS2017 dataset. The focus is on identifying different types of network intrusions, including DDoS attacks.
