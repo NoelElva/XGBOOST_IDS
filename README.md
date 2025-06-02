@@ -74,22 +74,6 @@ Place this file in the same directory as the script or update the `pd.read_csv()
 
 ---
 
-## 🔍 Example Output
-
-```bash
-Unique attack types: ['DDoS' 'PortScan' 'BENIGN' '...']
-Cross-validation Accuracy Scores: [0.94, 0.95, 0.93, 0.94, 0.95]
-Mean CV Accuracy: 0.9420
-
-Classification Report:
-               precision    recall  f1-score   support
-      BENIGN       0.95      0.94      0.94       600
-       DDoS        0.94      0.95      0.94       600
-    PortScan       0.93      0.94      0.94       600
-        ...          ...       ...       ...       ...
-```
-
----
 
 ## 📌 Notes
 
